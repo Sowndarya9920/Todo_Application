@@ -97,6 +97,9 @@
 ### Find All Todo:
 ![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222974677-20d673c1-459f-4822-a081-a884e5fd5c0e.png)
 
+### Add Todos:
+![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222974994-ddd96056-3769-40f8-adf3-c8916ea4a71a.png)
+
 ## Documentation
 - For documentation of Rest Api's we use Swagger.
 

@@ -110,6 +110,10 @@
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/112794922/222975596-5250c0f1-dbd5-41ce-86a9-80ecc43c0137.png)
 
+### Delete Todo:
+![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222975749-8674efec-9787-48e8-9b44-4ee96408d32f.png)
+
+
 
 ## Documentation
 - For documentation of Rest Api's we use Swagger.

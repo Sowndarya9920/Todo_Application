@@ -96,6 +96,11 @@
 ## Documentation
 - For documentation of Rest Api's we use Swagger.
 
+## View
+### Find All Todo:
+![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222974677-20d673c1-459f-4822-a081-a884e5fd5c0e.png)
+
+
 [Swagger](https://localhost:8080/swagger-ui.html)
 
 

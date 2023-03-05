@@ -113,6 +113,8 @@
 ### Delete Todo:
 ![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222975749-8674efec-9787-48e8-9b44-4ee96408d32f.png)
 
+![Screenshot (55)](https://user-images.githubusercontent.com/112794922/222975796-f952873b-8928-47c3-8cc6-8a79cd276e73.png)
+
 
 
 ## Documentation

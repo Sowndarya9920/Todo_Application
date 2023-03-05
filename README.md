@@ -4,6 +4,9 @@
 - The aim of this project is to create a simple todo application where we perform the basic CRUD operations.
 - We use spring initializer to create the spring boot application.
 
+![Screenshot (55)](https://user-images.githubusercontent.com/112794922/222976028-572a2032-a289-4d3f-a286-c1ef43609f52.png)
+
+
 
 ## Frameworks and Languages used:
 

@@ -105,6 +105,10 @@
 ### Find Todo By Id:
 ![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222975242-451d26d9-b8ce-4403-a635-24c6fc8e7e65.png)
 
+### Update Todo:
+![Screenshot (53)](https://user-images.githubusercontent.com/112794922/222975508-ccdc6f79-f045-4a66-aad3-1bb299cd1773.png)
+
+
 ## Documentation
 - For documentation of Rest Api's we use Swagger.
 

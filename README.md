@@ -126,5 +126,5 @@
 [Swagger](https://localhost:8080/swagger-ui.html)
 
 
-## Project Description:
+## Project Summary:
 - In this project I have created the Rest Api's for performing various CRUD operations such as add , read , delete , update. In order to insert the data I have used H2 database which is a in-memory database.
